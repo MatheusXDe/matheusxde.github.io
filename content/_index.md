@@ -34,7 +34,7 @@ Soy un colombiano de 19 años con algo más de experiencia en programación que 
 >>Un alien conquistador llega a un planeta habitado unicamente por robots para realizar sus retorcidos planes. (Arte por [@feba.arts](https://www.instagram.com/feba.arts/))
 >
 > ### Misceláneos
->>#### Blender Render![bl](images/blend.png)
+>>#### Blender Render ![blend](images/blend.png)
 >>Una animación hecha y renderizada en Blender imitando una famosa escena del cine.
 # 
 ---------------------------
