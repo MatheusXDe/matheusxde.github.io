@@ -1,6 +1,6 @@
 +++
 title = "Main"
-draft = true
+draft = false
 +++
 # David Perdomo Medina: Desarrollador de Videojuegos
 ---------------------------
