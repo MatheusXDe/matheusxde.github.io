@@ -22,11 +22,17 @@ Sip, mi alias en internet es MatheusXD.
 >> #### De-Molished![De-Molished](images/moles.png 'mole')
 >> Un juego arcade de Realidad Aumentada para dispositivos Android que recrea la experiencia del juego Whack-A-Mole. (Requiere escanear una imagen en un dispositivo aparte)
 >>
+>>[Saber más](port/demolished/)
+>>
 >> #### Overtime![overtime](images/ot.png)
 >> Videojuego realizado para la Trijam #322, donde controlas a un oficinista firmando documentos para evitar ser despedido.
 >>
+>>[Saber más](port/overtime/) | [{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em >}}JUEGALO YA EN ITCH.IO](https://matheusxde.itch.io/overtime) 
+>>
 >> #### Spin & Sauce![spinsauce](images/spin.png)
 >> Videojuego colaborativo realizado para la Assemble Game Jam, donde debes alinear partes de una rueda de pizza según las necesidades del cliente.
+>>
+>>[Saber más](port/spinsauce/) | | [{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em >}}JUEGALO YA EN ITCH.IO](https://vmike80.itch.io/spinsauce) 
 >
 > ### Prototipos
 >> #### Thomas Was Alone (CLON)![twa](images/twa.png)
