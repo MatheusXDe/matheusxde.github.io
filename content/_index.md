@@ -6,7 +6,7 @@ draft = false
 # David Perdomo Medina: Desarrollador de Videojuegos
 ---------------------------
 ## Sobre mí
-Soy un colombiano de 19 años con algo más de experiencia en programación que decidió afrontar el retador mundo del desarrollo de videojuegos. Con 
+Soy un colombiano de 19 años con algo más de experiencia en programación que decidió afrontar el retador mundo del desarrollo de videojuegos. 
 
 Sip, mi alias en internet es MatheusXD.
 ####
@@ -16,6 +16,8 @@ Sip, mi alias en internet es MatheusXD.
 >
 >> #### Inhuman Rampage![InhumanRamp](images/ir.png)
 >> James Reynolds. Jefe de un pelotón asesinado por alienigenas de la raza Xyron, está sediento de venganza por sus amigos recien fallecidos. En colaboración con [@feba.arts](https://www.instagram.com/feba.arts/).
+>>
+>>[Saber más](port/inhuman.md)
 >>
 >> #### De-Molished![De-Molished](images/moles.png 'mole')
 >> Un juego arcade de Realidad Aumentada para dispositivos Android que recrea la experiencia del juego Whack-A-Mole. (Requiere escanear una imagen en un dispositivo aparte)
