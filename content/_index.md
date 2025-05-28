@@ -18,7 +18,7 @@ Sip, mi alias en internet es MatheusXD (para evitar algunas confusiones con algu
 >> #### Inhuman Rampage![InhumanRamp](images/ir.png)
 >> James Reynolds. Jefe de un pelotón asesinado por alienigenas de la raza Xyron, está sediento de venganza por sus amigos recien fallecidos. En colaboración con [@feba.arts](https://www.instagram.com/feba.arts/).
 >>
->>[Saber más](port/inhuman/)
+>>[Saber más](port/inhuman/) | [{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em color=gray >}}LINK EN CONSTRUCCIÓN]() 
 >>
 >> #### De-Molished![De-Molished](images/moles.png 'mole')
 >> Un juego arcade de Realidad Aumentada para dispositivos Android que recrea la experiencia del juego Whack-A-Mole. (Requiere escanear una imagen en un dispositivo aparte)
@@ -46,6 +46,8 @@ Sip, mi alias en internet es MatheusXD (para evitar algunas confusiones con algu
 >>
 >> #### Inhuman Rampage (OLD)![oldr](images/oldir.png)
 >>Un alien conquistador llega a un planeta habitado unicamente por robots para realizar sus retorcidos planes. (Arte por [@feba.arts](https://www.instagram.com/feba.arts/))
+>>
+>> [{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em color=gray >}}LINK EN CONSTRUCCIÓN]() 
 >
 > ### Misceláneos
 >>#### Blender Render [![s](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FNH--nnL52kk)](https://youtu.be/NH--nnL52kk)
