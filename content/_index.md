@@ -32,7 +32,7 @@ Sip, mi alias en internet es MatheusXD.
 >> #### Spin & Sauce![spinsauce](images/spin.png)
 >> Videojuego colaborativo realizado para la Assemble Game Jam, donde debes alinear partes de una rueda de pizza según las necesidades del cliente.
 >>
->>[Saber más](port/spinsauce/) | | [{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em >}}JUEGALO YA EN ITCH.IO](https://vmike80.itch.io/spinsauce) 
+>>[Saber más](port/spinsauce/) | [{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em >}}JUEGALO YA EN ITCH.IO](https://vmike80.itch.io/spinsauce) 
 >
 > ### Prototipos
 >> #### Thomas Was Alone (CLON)![twa](images/twa.png)
