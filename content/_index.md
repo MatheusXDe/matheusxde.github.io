@@ -2,7 +2,7 @@
 title = "Main"
 draft = false
 +++
-# IMPORTANTE: Debido a algunos percances con una cuenta de organización, algunos proyectos ya no tienen repositorio o forma de ser probados. Apenas se pueda, se reinstanciarán todos los proyectos.
+# IMPORTANTE: Debido a percances con una cuenta educativa, algunos proyectos ya no tienen forma de ser probados. Apenas se pueda, se reinstanciarán todos los proyectos en el itch.io.
 # David Perdomo Medina: Desarrollador de Videojuegos
 ---------------------------
 ## Sobre mí
