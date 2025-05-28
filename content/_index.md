@@ -38,6 +38,8 @@ Sip, mi alias en internet es MatheusXD (para evitar algunas confusiones con algu
 >> #### Thomas Was Alone (CLON)![twa](images/twa.png)
 >> Un clon del aclamado juego Thomas was alone, hecho para fines educativos.
 >>
+>>[{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em >}}JUEGALO YA EN ITCH.IO](https://matheusxde.itch.io/not-thomas-was-alone) 
+>>
 >> #### Juego de celular sin título![inf](images/ind.png)
 >> En este juego controlas a un indio que tiene que proteger su cabaña de misiles enemigos usando un escudo bendito.
 >>
