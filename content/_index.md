@@ -22,7 +22,7 @@ Sip, mi alias en internet es MatheusXD (para evitar algunas confusiones con algu
 >> #### De-Molished![De-Molished](images/moles.png 'mole')
 >> Un juego arcade de Realidad Aumentada para dispositivos Android que recrea la experiencia del juego Whack-A-Mole. (Requiere escanear una imagen en un dispositivo aparte)
 >>
->>[Saber más](port/demolished/)
+>>[Saber más](port/demolished/) | [{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em >}}DESCÁRGALO EN ITCH.IO](https://matheusxde.itch.io/de-molished)
 >>
 >> #### Overtime![overtime](images/ot.png)
 >> Videojuego realizado para la Trijam #322, donde controlas a un oficinista firmando documentos para evitar ser despedido.
