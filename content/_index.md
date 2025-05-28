@@ -2,10 +2,13 @@
 title = "Main"
 draft = false
 +++
+# IMPORTANTE: Debido a algunos percances con una cuenta de organización, algunos proyectos ya no tienen repositorio o forma de ser probados. Apenas se pueda, se reinstanciarán todos los proyectos.
 # David Perdomo Medina: Desarrollador de Videojuegos
 ---------------------------
 ## Sobre mí
-Soy un colombiano de 19 años con algo más de experiencia en programación que decidió afrontar el retador mundo del desarrollo de videojuegos.
+Soy un colombiano de 19 años con algo más de experiencia en programación que decidió afrontar el retador mundo del desarrollo de videojuegos. Con 
+
+Sip, mi alias en internet es MatheusXD.
 ####
 ---------------------------
 ## Mis proyectos
@@ -34,13 +37,13 @@ Soy un colombiano de 19 años con algo más de experiencia en programación que 
 >>Un alien conquistador llega a un planeta habitado unicamente por robots para realizar sus retorcidos planes. (Arte por [@feba.arts](https://www.instagram.com/feba.arts/))
 >
 > ### Misceláneos
->>#### Blender Render ![blend](images/blend.png)
+>>#### Blender Render [![s](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FNH--nnL52kk)](https://youtu.be/NH--nnL52kk)
 >>Una animación hecha y renderizada en Blender imitando una famosa escena del cine.
 # 
 ---------------------------
 ## Contactos
 #### Correo electrónico: davidp3rd0m0.contacto@gmail.com
-#### Redes sociales: [GitHub](https://github.com/MatheusXDe) | [LinkedIn](https://www.linkedin.com/in/david-perdomo-medina-video-game-developer/) | [Instagram (EN CONSTRUCCIÓN)](https://www.instagram.com/dpm_worx?igsh=a3lxdnRmNHQ0NzI2)
+#### Redes sociales: [{{< icons/icon vendor=bootstrap name=github size=2em >}}](https://github.com/MatheusXDe) | [{{< icons/icon vendor=bootstrap name=linkedin size=2em >}}](https://www.linkedin.com/in/david-perdomo-medina-video-game-developer/) | [{{< icons/icon vendor=bootstrap name=instagram size=2em color=red >}} (EN CONSTRUCCIÓN)](https://www.instagram.com/dpm_worx?igsh=a3lxdnRmNHQ0NzI2)
 # 
 ---------------------------
 # Posts
