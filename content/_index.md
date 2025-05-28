@@ -6,7 +6,7 @@ draft = false
 # David Perdomo Medina: Desarrollador de Videojuegos
 ---------------------------
 ## Sobre mí
-Soy un colombiano de 19 años con algo más de experiencia en programación que decidió afrontar el retador mundo del desarrollo de videojuegos. 
+Soy un colombiano de 19 años con algo más de experiencia en programación que decidió afrontar el retador mundo del desarrollo de videojuegos. Con el tiempo, fuí adquiriendo bastante experiencia académica con el Servicio Nacional de Aprendizaje y con Generation Colombia, por lo cual mi comprensión de el motor de desarrollo de videojuegos Unity es alta.
 
 Sip, mi alias en internet es MatheusXD.
 ####
