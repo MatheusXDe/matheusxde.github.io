@@ -58,7 +58,7 @@ Sip, mi alias en internet es MatheusXD (para evitar algunas confusiones con algu
 ---------------------------
 ## Contactos
 #### Correo electrónico: davidp3rd0m0.contacto@gmail.com
-#### Redes sociales: [{{< icons/icon vendor=bootstrap name=github size=2em >}}](https://github.com/MatheusXDe) | [{{< icons/icon vendor=bootstrap name=linkedin size=2em >}}](https://www.linkedin.com/in/david-perdomo-medina-video-game-developer/) | [{{< icons/icon vendor=bootstrap name=instagram size=2em color=red >}} (EN CONSTRUCCIÓN)](https://www.instagram.com/dpm_worx?igsh=a3lxdnRmNHQ0NzI2) | [{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em >}}](https://matheusxde.itch.io/)
+#### Redes sociales: [{{< icons/icon vendor=bootstrap name=github size=2em >}}](https://github.com/MatheusXDe) | [{{< icons/icon vendor=bootstrap name=linkedin size=2em >}}](https://www.linkedin.com/in/david-perdomo-medina-video-game-developer/) | [{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em >}}](https://matheusxde.itch.io/)
 # 
 ---------------------------
 # Posts (ignorar/indexa los .md sin sortearlos)
