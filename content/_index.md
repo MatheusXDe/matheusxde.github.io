@@ -2,7 +2,6 @@
 title = "Main"
 draft = false
 +++
-# IMPORTANTE: La mayoría de proyectos están desplegados correctamente en itch.io. Proyectos faltantes: Inhuman Rampage (Old).
 # David Perdomo Medina: Desarrollador de Videojuegos
 ---------------------------
 ## Sobre mí
@@ -48,7 +47,7 @@ Sip, mi alias en internet es MatheusXD (para evitar algunas confusiones con algu
 >> #### Inhuman Rampage (OLD)![oldr](images/oldir.png)
 >>Un alien conquistador llega a un planeta habitado unicamente por robots para realizar sus retorcidos planes. (Arte por [@feba.arts](https://www.instagram.com/feba.arts/))
 >>
->> [{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em color=gray >}}LINK EN CONSTRUCCIÓN]() 
+>> [{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em >}}JUEGALO YA EN ITCH.IO](https://matheusxde.itch.io/inhuman-rampage-old) 
 >
 > ### Misceláneos
 >>#### Blender Render [![s](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FNH--nnL52kk)](https://youtu.be/NH--nnL52kk)
