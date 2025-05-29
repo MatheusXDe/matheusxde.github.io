@@ -2,8 +2,7 @@
 title = "Main"
 draft = false
 +++
-# IMPORTANTE: Debido a percances con una cuenta educativa, algunos proyectos ya no tienen forma de ser probados. Apenas se pueda, se reinstanciarán todos los proyectos en el itch.io.
-## ACTUALIZACIÓN: La mayoría de proyectos están desplegados correctamente en itch.io. Proyectos faltantes: Inhuman Rampage (Old).
+# IMPORTANTE: La mayoría de proyectos están desplegados correctamente en itch.io. Proyectos faltantes: Inhuman Rampage (Old).
 # David Perdomo Medina: Desarrollador de Videojuegos
 ---------------------------
 ## Sobre mí
