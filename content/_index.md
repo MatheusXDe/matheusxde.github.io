@@ -3,7 +3,7 @@ title = "Main"
 draft = false
 +++
 # IMPORTANTE: Debido a percances con una cuenta educativa, algunos proyectos ya no tienen forma de ser probados. Apenas se pueda, se reinstanciarán todos los proyectos en el itch.io.
-## ACTUALIZACIÓN: La mayoría de proyectos están desplegados correctamente en itch.io. Proyectos faltantes: Inhuman Rampage (Old/New), Juego de celular sin titulo.
+## ACTUALIZACIÓN: La mayoría de proyectos están desplegados correctamente en itch.io. Proyectos faltantes: Inhuman Rampage (Old).
 # David Perdomo Medina: Desarrollador de Videojuegos
 ---------------------------
 ## Sobre mí
@@ -43,6 +43,8 @@ Sip, mi alias en internet es MatheusXD (para evitar algunas confusiones con algu
 >>
 >> #### Juego de celular sin título![inf](images/ind.png)
 >> En este juego controlas a un indio que tiene que proteger su cabaña de misiles enemigos usando un escudo bendito.
+>>
+>>[{{< icons/icon vendor=font-awesome-brands name=itch-io size=2em >}}DESCÁRGALO EN ITCH.IO](https://matheusxde.itch.io/de-molished)
 >>
 >> #### Inhuman Rampage (OLD)![oldr](images/oldir.png)
 >>Un alien conquistador llega a un planeta habitado unicamente por robots para realizar sus retorcidos planes. (Arte por [@feba.arts](https://www.instagram.com/feba.arts/))
