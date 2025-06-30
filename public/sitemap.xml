@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-27T23:07:12-05:00</lastmod>
+    <lastmod>2025-06-29T22:37:46-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/port/malasombra/</loc>
+    <lastmod>2025-06-29T22:37:46-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/port/</loc>
-    <lastmod>2025-05-27T23:07:12-05:00</lastmod>
+    <lastmod>2025-06-29T22:37:46-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/port/spinsauce/</loc>
     <lastmod>2025-05-27T23:07:12-05:00</lastmod>
@@ -26,6 +29,8 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/port/inhuman/</loc>
+  </url><url>
+    <loc>http://localhost:1313/port/davidworks/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

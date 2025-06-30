@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ports on DavidWorks</title>
+    <title>Ports on Terminal</title>
     <link>http://localhost:1313/port/</link>
-    <description>Recent content in Ports on DavidWorks</description>
+    <description>Recent content in Ports on Terminal</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 23:07:12 -0500</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Jun 2025 22:37:46 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/port/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Malasombra</title>
+      <link>http://localhost:1313/port/malasombra/</link>
+      <pubDate>Sun, 29 Jun 2025 22:37:46 -0500</pubDate>
+      <guid>http://localhost:1313/port/malasombra/</guid>
+      <description>&lt;p&gt;Videojuego realizado en Unity 3D como proyecto final del bootcamp &lt;strong&gt;&lt;em&gt;Unity Junior Developer&lt;/em&gt;&lt;/strong&gt; de Generation Colombia. Realizado junto a &lt;a href=&#34;https://www.linkedin.com/in/cristhian-felipe-torres-barreto-282375217/&#34;&gt;Cristhian Torres&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/leidy-buitrago-kv&#34;&gt;Leidy Buitrago&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/sebastian-gamez-zu%C3%B1iga-video-game-developer/&#34;&gt;Sebastián Gámez&lt;/a&gt; y &lt;a href=&#34;https://www.linkedin.com/in/jhon-alexander-ortiz-obando-game-developer&#34;&gt;John Alexander Ortiz&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Spin &amp; Sauce</title>
       <link>http://localhost:1313/port/spinsauce/</link>
@@ -35,6 +42,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/port/inhuman/</guid>
       <description>&lt;p&gt;Inhuman Rampage es un videojuego shoot-em up en 2D al estilo de videojuegos como Contra o Metal Slug.&lt;/p&gt;&#xA;&lt;p&gt;Este juego fué realizado como proyecto final para el tecnólogo de Desarrollo de Videojuegos y Entornos Interactivos del SENA junto a David Felipe Baquero (&lt;a href=&#34;https://www.instagram.com/feba.arts/&#34;&gt;@feba.arts&lt;/a&gt;), quien tomó el rol de artista y diseñador gráfico, asi como yo asumí el rol de programador principal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Portafolio</title>
+      <link>http://localhost:1313/port/davidworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/port/davidworks/</guid>
+      <description>&lt;h1 id=&#34;david-perdomo-medina-desarrollador-de-videojuegos&#34;&gt;David Perdomo Medina: Desarrollador de Videojuegos&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;sobre-mí&#34;&gt;Sobre mí&lt;/h2&gt;&#xA;&lt;p&gt;Soy un colombiano de 19 años con algo más de experiencia en programación que decidió afrontar el retador mundo del desarrollo de videojuegos. Con el tiempo, fuí adquiriendo bastante experiencia académica con el Servicio Nacional de Aprendizaje y con Generation Colombia, por lo cual mi comprensión de el motor de desarrollo de videojuegos Unity es alta.&lt;/p&gt;&#xA;&lt;p&gt;Sip, mi alias en internet es MatheusXD (para evitar algunas confusiones con algunos usuarios).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
