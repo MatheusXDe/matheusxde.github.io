@@ -1,37 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url>
+  
+  
+  
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-29T22:37:46-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/port/malasombra/</loc>
-    <lastmod>2025-06-29T22:37:46-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/port/</loc>
-    <lastmod>2025-06-29T22:37:46-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/port/spinsauce/</loc>
-    <lastmod>2025-05-27T23:07:12-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/port/overtime/</loc>
-    <lastmod>2025-05-27T23:06:59-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/port/demolished/</loc>
-    <lastmod>2025-05-27T23:06:39-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-27T14:50:24-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
-    <lastmod>2025-05-27T14:50:24-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/port/inhuman/</loc>
-  </url><url>
-    <loc>http://localhost:1313/port/davidworks/</loc>
-  </url><url>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
+  
+  
 </urlset>

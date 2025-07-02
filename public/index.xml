@@ -6,56 +6,13 @@
     <description>Recent content in Main on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Jun 2025 22:37:46 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Malasombra</title>
-      <link>http://localhost:1313/port/malasombra/</link>
-      <pubDate>Sun, 29 Jun 2025 22:37:46 -0500</pubDate>
-      <guid>http://localhost:1313/port/malasombra/</guid>
-      <description>&lt;p&gt;Videojuego realizado en Unity 3D como proyecto final del bootcamp &lt;strong&gt;&lt;em&gt;Unity Junior Developer&lt;/em&gt;&lt;/strong&gt; de Generation Colombia. Realizado junto a &lt;a href=&#34;https://www.linkedin.com/in/cristhian-felipe-torres-barreto-282375217/&#34;&gt;Cristhian Torres&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/leidy-buitrago-kv&#34;&gt;Leidy Buitrago&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/sebastian-gamez-zu%C3%B1iga-video-game-developer/&#34;&gt;Sebastián Gámez&lt;/a&gt; y &lt;a href=&#34;https://www.linkedin.com/in/jhon-alexander-ortiz-obando-game-developer&#34;&gt;John Alexander Ortiz&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Spin &amp; Sauce</title>
-      <link>http://localhost:1313/port/spinsauce/</link>
-      <pubDate>Tue, 27 May 2025 23:07:12 -0500</pubDate>
-      <guid>http://localhost:1313/port/spinsauce/</guid>
-      <description>&lt;p&gt;Spin &amp;amp; Sauce es un minijuego donde encarnas la piel de un raton pizzero, el cual debe de concretar las órdenes de sus clientes alineando trozos de pizza en el momento correcto.&lt;/p&gt;&#xA;&lt;p&gt;Minijuego realizado junto a &lt;a href=&#34;https://cinikmoon.itch.io/&#34;&gt;Cindy Monroy&lt;/a&gt; y &lt;a href=&#34;https://vmike80.itch.io/&#34;&gt;Michael Vergara&lt;/a&gt; para la &lt;a href=&#34;https://itch.io/jam/assemble-game-jam&#34;&gt;Assemble Game Jam&lt;/a&gt; organizada por Generation Colombia.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Overtime</title>
-      <link>http://localhost:1313/port/overtime/</link>
-      <pubDate>Tue, 27 May 2025 23:06:59 -0500</pubDate>
-      <guid>http://localhost:1313/port/overtime/</guid>
-      <description>&lt;p&gt;Overtime es un minijuego realizado para la Trijam #322 con temática de &amp;ldquo;Tus miedos son las mecánicas de juego&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;En este minijuego encarnas a un oficinista, el cual debe tanto de firmar y sellar documentos, como el de descartarlos o aprobarlos antes de que se termine el tiempo. Si no se aprobaron los suficientes documentos antes del tiempo, eres despedido.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>De-Molished</title>
-      <link>http://localhost:1313/port/demolished/</link>
-      <pubDate>Tue, 27 May 2025 23:06:39 -0500</pubDate>
-      <guid>http://localhost:1313/port/demolished/</guid>
-      <description>&lt;p&gt;De-Molished es un minjuego de Realidad Alternativa (AR) para dispostivos móviles en donde al escanear una imagen de un topo, comienza un minijuego de feria donde debes de golpear la mayor cantidad de topos hasta que el tiempo termine.&lt;/p&gt;&#xA;&lt;p&gt;Este proyecto fue realizado como entrega de una actividad del tecnólogo de Desarrollo de Videojuegos y Entornos Interactivos del SENA.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Tue, 27 May 2025 14:50:24 -0500</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <title></title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Inhuman Rampage</title>
-      <link>http://localhost:1313/port/inhuman/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/port/inhuman/</guid>
-      <description>&lt;p&gt;Inhuman Rampage es un videojuego shoot-em up en 2D al estilo de videojuegos como Contra o Metal Slug.&lt;/p&gt;&#xA;&lt;p&gt;Este juego fué realizado como proyecto final para el tecnólogo de Desarrollo de Videojuegos y Entornos Interactivos del SENA junto a David Felipe Baquero (&lt;a href=&#34;https://www.instagram.com/feba.arts/&#34;&gt;@feba.arts&lt;/a&gt;), quien tomó el rol de artista y diseñador gráfico, asi como yo asumí el rol de programador principal.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Portafolio</title>
-      <link>http://localhost:1313/port/davidworks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/port/davidworks/</guid>
-      <description>&lt;h1 id=&#34;david-perdomo-medina-desarrollador-de-videojuegos&#34;&gt;David Perdomo Medina: Desarrollador de Videojuegos&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;sobre-mí&#34;&gt;Sobre mí&lt;/h2&gt;&#xA;&lt;p&gt;Soy un colombiano de 19 años con algo más de experiencia en programación que decidió afrontar el retador mundo del desarrollo de videojuegos. Con el tiempo, fuí adquiriendo bastante experiencia académica con el Servicio Nacional de Aprendizaje y con Generation Colombia, por lo cual mi comprensión de el motor de desarrollo de videojuegos Unity es alta.&lt;/p&gt;&#xA;&lt;p&gt;Sip, mi alias en internet es MatheusXD (para evitar algunas confusiones con algunos usuarios).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

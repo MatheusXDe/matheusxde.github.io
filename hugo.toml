@@ -2,7 +2,7 @@ baseURL = 'https://davidworks.github.io/'
 relativeURLs = true
 languageCode = 'en-us'
 title = 'DavidWorks'
-theme = 'terminal'
+theme = ["hugo-redirect"]
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
@@ -92,12 +92,6 @@ pagination.pagerSize = 5
       [languages.en.params.logo]
         logoText = "DavidWorks"
         logoHomeLink = "/"
-
-      [languages.en.menu]
-        [[languages.en.menu.main]]
-          identifier = "portfolio"
-          name = "Portafolio"
-          url = "/port/davidworks"
 
 [module]
   [[module.imports]]
